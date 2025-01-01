@@ -16,7 +16,8 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
     * AI integration in various sectors (automotive, data analytics, facial recognition).
     * Growing demand for consumer electronics due to rising disposable income.
     * Large investments by companies like Samsung in semiconductor manufacturing.
-![](screenshot.jpg) 
+
+![graph](IMG_20241228_101419.jpg) 
 
 **2.Importance of Semiconductor Manufacturing for India**
 
@@ -101,6 +102,8 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 * **Limited Manufacturing Capacity:** Existing fabrication and assembly facilities are few, with limited capacity and primarily focused on niche markets.
 * **Growing Domestic Market:** The Indian semiconductor market is expected to grow significantly, reaching US$ 100.2 billion by 2032 from US$ 34.3 billion in 2023.
     * Driven by increased demand from smartphones, consumer electronics, automotive, automation, and healthcare.
+
+![graph 1]()
 
 **8. Government Initiatives**
 
