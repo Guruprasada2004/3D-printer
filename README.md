@@ -54,8 +54,8 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 * **Significant Potential:**
     * Large domestic market with a growing digital economy and a population of over 1.4 billion.
     * Strategic opportunity to become a major player in the global semiconductor landscape.
-    * 
-      **5.India Semiconductor Mission (ISM)**
+  
+**5.India Semiconductor Mission (ISM)**
 
 * **Key Objective:** Establish India as a prominent player in the global semiconductor industry.
 * **Initiatives:**
