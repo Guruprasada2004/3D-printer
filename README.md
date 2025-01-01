@@ -103,7 +103,7 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 * **Growing Domestic Market:** The Indian semiconductor market is expected to grow significantly, reaching US$ 100.2 billion by 2032 from US$ 34.3 billion in 2023.
     * Driven by increased demand from smartphones, consumer electronics, automotive, automation, and healthcare.
 
-![graph 1]()
+![graph 1](Guru.jpg)
 
 **8. Government Initiatives**
 
