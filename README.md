@@ -4,6 +4,8 @@ The semiconductor industry plays a massive role in driving economic progress in 
 
 Although India's semiconductor ecosystem is still in the initial stages - currently forming only 3% of the overall market - the country is at a crucial point to seize the rising demand for chips across fields such as electronics, automotive, telecommunication, and AI.
 
+![chip pic](Pic.jpg) 
+
 **1.Global Semiconductor Market**
 
 * **Growing Market:**
@@ -14,6 +16,7 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
     * AI integration in various sectors (automotive, data analytics, facial recognition).
     * Growing demand for consumer electronics due to rising disposable income.
     * Large investments by companies like Samsung in semiconductor manufacturing.
+![](screenshot.jpg) 
 
 **2.Importance of Semiconductor Manufacturing for India**
 
