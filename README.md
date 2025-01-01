@@ -136,3 +136,5 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 * The Indian semiconductor industry is at an inflection point with significant growth potential.
 * Government initiatives, strategic partnerships, and a growing domestic market are driving this transformation.
 * Addressing challenges related to labor, finance, and supply chain is crucial for realizing the full potential of the Indian semiconductor industry.
+
+[![Video Title](http://img.youtube.com/vi/26kN6XDrnZA/0.jpg)](https://www.youtube.com/watch?v=26kN6XDrnZA) 
