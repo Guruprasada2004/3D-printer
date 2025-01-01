@@ -54,7 +54,8 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 * **Significant Potential:**
     * Large domestic market with a growing digital economy and a population of over 1.4 billion.
     * Strategic opportunity to become a major player in the global semiconductor landscape.
-      **I. India Semiconductor Mission (ISM)**
+    * 
+      **5.India Semiconductor Mission (ISM)**
 
 * **Key Objective:** Establish India as a prominent player in the global semiconductor industry.
 * **Initiatives:**
@@ -70,7 +71,7 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
     * CG Power, Renesas, & Stars Microelectronics: Semiconductor facility (Rs. 7,600 crore).
 * **Focus:** Develop packaging technologies for efficient semiconductor devices.
 
-**5. Government Policies Supporting Semiconductor Manufacturing**
+**6. Government Policies Supporting Semiconductor Manufacturing**
 
 * **Modified Programme for Semiconductors and Display Fab Ecosystem (M-SIPS):**
     * Incentives for setting up greenfield large-scale manufacturing facilities.
@@ -84,7 +85,7 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
     * Aims to nurture at least 20 indigenous semiconductor design companies.
     * Fosters self-reliance in semiconductor technology.
 
-**6. Overall Impact**
+**7. Overall Impact**
 
 * These initiatives aim to attract investments, promote domestic manufacturing, and develop a skilled workforce.
 * They are crucial in propelling India towards becoming a global semiconductor hub.
@@ -96,7 +97,7 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 * **Growing Investor Confidence:** These proposals demonstrate growing confidence from global players in the Indian semiconductor market and its future growth potential.
 * **Government Decision:** The government is expected to make decisions on these proposals soon, which will pave the way for the establishment of large-scale semiconductor manufacturing facilities in India.
  
- **7. Current State**
+ **8. Current State**
 
 * **Low Domestic Production:** India currently manufactures less than 1% of the world's semiconductors, heavily reliant on imports.
 * **Limited Manufacturing Capacity:** Existing fabrication and assembly facilities are few, with limited capacity and primarily focused on niche markets.
@@ -105,32 +106,32 @@ Although India's semiconductor ecosystem is still in the initial stages - curren
 
 ![graph 1](Guru.jpg)
 
-**8. Government Initiatives**
+**9. Government Initiatives**
 
 * **Semiconductor Mission:** Aims to attract investments, create manufacturing capacity, and build an enabling ecosystem.
 * **PLI Program:** Provides incentives for domestic manufacturing of electronic components, including semiconductors.
 * **Special Economic Zones:** Encourage investment and facilitate the growth of the industry.
 
-**9. Key Players & Developments**
+**10. Key Players & Developments**
 
 * **Tata Electronics:** Partnering with Powerchip for semiconductor fabrication.
 * **HCL Technologies:** Entering semiconductor design with a new design center in Hyderabad.
 * **Dixon Technologies:** Collaborating with Foxconn for semiconductor assembly and testing.
 
-**10. Challenges**
+**11. Challenges**
 
 * **Shortage of skilled labor:** Requires significant investment in education and training.
 * **Limited access to finance:** Needs to create a more conducive investment environment.
 * **Supply chain vulnerabilities:** Requires building a robust and reliable domestic supply chain.
 
-**11. Growth Opportunities**
+**12. Growth Opportunities**
 
 * **Memory Device Market:** Strong demand for high-capacity memory solutions presents a significant growth opportunity.
 * **Design & Development Centers:** Cities like Mumbai and Pune are emerging as hubs for chip design and development.
 * **Government Support:** US$ 10 billion allocated for the Semiconductor Mission to drive investments.
 * **Export Potential:** Aiming to reach US$ 80 billion in semiconductor exports by 2030.
 
-**12. Overall Outlook**
+**13. Overall Outlook**
 
 * The Indian semiconductor industry is at an inflection point with significant growth potential.
 * Government initiatives, strategic partnerships, and a growing domestic market are driving this transformation.
